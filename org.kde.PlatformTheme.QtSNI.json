@@ -18,8 +18,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ilya-fedin/qtsni-theme",
-                    "tag": "v1.0.2",
-                    "commit": "f5fae406c2aee88dc52feb5ef1936ddb17a0e1be"
+                    "tag": "v1.0.3",
+                    "commit": "8c01f375936a4b0869f418a0d75a40fa6d16c727"
                 }
             ]
         },
